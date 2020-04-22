@@ -1,4 +1,4 @@
-package sampleBatch.sampleBatch;
+package com.sample.batch;
 
 public class Person {
 
